@@ -5,6 +5,7 @@ html {
 body {
     height: 100%;
     content: center;
+    background-color: #F39C12;
 }
 a {
     text-decoration: none;
@@ -16,4 +17,20 @@ a {
 .social-image{
     width: 30px;
     margin: 15px;
+}
+
+.header  {
+    display: flex;
+    justify-content: space-around;
+    background-color: #C0392B;
+}
+.thumbnail {
+    display:flex;
+    justify-content: space-around;
+    width:400px;
+    height:200px;
+    
+}
+.Gallery {
+    background-color:#C0392B;
 }
